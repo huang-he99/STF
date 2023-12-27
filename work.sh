@@ -1,0 +1,13 @@
+srun \
+    --job-name=STF \
+    --partition=ALL \
+    --nodelist=node03 \
+    --nodes=1 \
+    --ntasks=1 \
+    --ntasks-per-node=1 \
+    --gres=gpu:1 \
+    --cpus-per-task=10 \
+    --mem=64000 \
+    --comment=Msg=,ContainerType=docker,Image=hpc/hh/wbu_hh_workspace:v1,Network= \
+    --chdir=/home/hh/container/code/fusion \
+    --pty bash 
