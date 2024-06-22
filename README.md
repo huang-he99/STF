@@ -33,8 +33,7 @@ Detailed usage instructions and training weights for STFDiff will be gradually r
 # Citation
 If you find this code repository and our paper useful, please cite:
 ```bibtex
-@article{
-  huang2024stfdiff,
+@article{huang2024stfdiff,
   title={STFDiff: Remote sensing image spatiotemporal fusion with diffusion models},
   author={Huang, He and He, Wei and Zhang, Hongyan and Xia, Yu and Zhang, Liangpei},
   journal={Information Fusion},
@@ -42,8 +41,7 @@ If you find this code repository and our paper useful, please cite:
   year={2024},
   publisher={Elsevier}
 }
-@Online{
-  stfrepo,
+@Online{stfrepo,
   accessed = {2023-12-27},
   author   = {He Huang and He, Wei},
   title    = {A unified algorithm library for STF},
