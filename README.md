@@ -43,9 +43,10 @@ If you find this code repository and our paper useful, please cite:
 }
 @Online{stfrepo,
   accessed = {2023-12-27},
-  author   = {He Huang and He, Wei},
-  title    = {A unified algorithm library for STF},
-  url      = {https://github.com/prowDIY/STF, https://github.com/huang-he99/STF},
+  author   = {Huang, He and Wei, He},
+  title    = {A unified algorithm library for spatiotemporal fusion},
+  url      = {https://github.com/prowDIY/STF},
+  note     = {Forked from: https://github.com/huang-he99/STF},
 }
 @article{song2022remote,
   title={Remote sensing image spatiotemporal fusion via a generative adversarial network with one prior image pair},
