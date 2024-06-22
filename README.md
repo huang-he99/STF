@@ -31,7 +31,7 @@ It currently incorporates many existing SOTA methods.
 Detailed usage instructions and training weights for STFDiff will be gradually released as they are organized.
 
 # Citation
-If you find this code repository and our paper useful, please cite:
+If you find this code repository and our paper useful, please star and cite:
 ```bibtex
 @article{huang2024stfdiff,
   title={STFDiff: Remote sensing image spatiotemporal fusion with diffusion models},
