@@ -1,9 +1,9 @@
 .vscode
 
 
-data/
-results/
-results1/
+# data/
+# results/
+# results1/
 
 
 src.egg-info
