@@ -8,11 +8,11 @@ The overview of STF is as follows:
 <div style="text-align: center;">
   <div style="display: flex; justify-content: center; gap: 20px; margin-top: 10px;">
     <figure style="text-align: center;">
-      <img title="Flowchart" src="assets/methodology_flowchart.png" height="300" alt="Flowchart">
+      <img title="Flowchart" src="assets/methodology_flowchart.png" height="150" alt="Flowchart">
       <figcaption>(a) Flowchart</figcaption>
     </figure>
     <figure style="text-align: center;">
-      <img title="DS-Unet" src="assets/methodology_Unet.png" height="300" alt="DS-Unet">
+      <img title="DS-Unet" src="assets/methodology_Unet.png" height="150" alt="DS-Unet">
       <figcaption>(b) DS-Unet</figcaption>
     </figure>
   </div>
